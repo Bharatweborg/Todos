@@ -13,7 +13,7 @@ const Navbar = () => {
           <a href="/">Home</a>
         </li>
         <li className="cursor-pointer hover:font-bold transition-all">
-          <a href="/">Portfolio</a>
+          <a href="https://haranathx.vercel.app/" target="_blank">Portfolio</a>
         </li>
 
       </ul>
